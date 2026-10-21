@@ -89,7 +89,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/keycloak/keycloak-react.git"
+    "url": "https://github.com/keycloak-frontend-tools/keycloak-react.git"
   },
   "homepage": "https://www.keycloak.org/",
   "keywords": [
